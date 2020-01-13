@@ -15,3 +15,6 @@ while True:
 
 camara.release()
 cv.destroyAllWindows()
+
+## OJO, cuando se ejecuta el programa por primera vez, conviene sacar todas las fotos sin interrumpir elprograma
+## caso contrario, las imagenes se sobrescribiran
